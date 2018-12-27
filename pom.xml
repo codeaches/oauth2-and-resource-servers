@@ -7,7 +7,7 @@
 	<groupId>com.codeaches</groupId>
 	<artifactId>oauth2-and-resource-servers</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>petstore</name>
+
 	<description>Demo project for Spring Boot Authorization and Resource Server</description>
 	<packaging>pom</packaging>
 
