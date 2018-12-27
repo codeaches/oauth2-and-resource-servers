@@ -12,13 +12,13 @@ import org.springframework.web.bind.annotation.RestController;
 public class PetstoreController {
 
 	@GetMapping("pet")
-	@PreAuthorize("hasAuthority('ROLE_USER')")
+	@PreAuthorize("hasAuthority('AUTHORIZED_PETSTORE_USER')")
 	public String pet(Principal principal) {
 		return "Hi " + principal.getName() + ". My pet is dog";
 	}
 
 	@GetMapping("favouritePet")
-	@PreAuthorize("hasAuthority('ROLE_ADMIN')")
+	@PreAuthorize("hasAuthority('AUTHORIZED_PETSTORE_ADMIN')")
 	public String favouritePet(Principal principal) {
 		return "Hi " + principal.getName() + ". My favourite pet is cat";
 	}
