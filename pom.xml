@@ -16,4 +16,32 @@
 		<module>petstore</module>
 	</modules>
 
+	<url>https://codeaches.com/</url>
+
+	<licenses>
+		<license>
+			<name>MIT License</name>
+			<url>http://www.opensource.org/licenses/mit-license.php</url>
+		</license>
+	</licenses>
+
+	<developers>
+		<developer>
+			<name>Pavan Gurudutt</name>
+			<email>pavan@codeaches.com</email>
+			<id>pavan</id>
+			<roles>
+				<role>Developer</role>
+			</roles>
+			<organization>Codeaches</organization>
+			<organizationUrl>https://codeaches.com/</organizationUrl>
+		</developer>
+	</developers>
+
+	<scm>
+		<connection>scm:git:git://github.com/codeaches/oauth2-and-resource-servers.git</connection>
+		<developerConnection>scm:git:ssh://github.com:codeaches/oauth2-and-resource-servers.git</developerConnection>
+		<url>https://github.com/codeaches/oauth2-and-resource-servers</url>
+	</scm>
+
 </project>
