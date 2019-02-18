@@ -37,11 +37,9 @@
 			<organizationUrl>https://codeaches.com/</organizationUrl>
 		</developer>
 	</developers>
-
 	<scm>
 		<connection>scm:git:git://github.com/codeaches/oauth2-and-resource-servers.git</connection>
 		<developerConnection>scm:git:ssh://github.com:codeaches/oauth2-and-resource-servers.git</developerConnection>
 		<url>https://github.com/codeaches/oauth2-and-resource-servers</url>
 	</scm>
-
 </project>
