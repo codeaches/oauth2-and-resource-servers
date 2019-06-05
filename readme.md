@@ -7,9 +7,8 @@ The **current** version of this project is licensed under [MIT].
 
 ## Relevant documents
 
-The tutorial related to this project can be found on [Codeaches Website]
-
-This project is built using OpenJDK 12 
+- The tutorial related to this project can be found on [Codeaches Website]
+- This project is built using OpenJDK 12 
 
 [MIT badge]: https://img.shields.io/:license-MIT%202.0-blue.svg
 [MIT]: https://opensource.org/licenses/mit-license.php
