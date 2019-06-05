@@ -12,7 +12,7 @@
 	</parent>
 
 	<groupId>com.codeaches</groupId>
-	<artifactId>petstore</artifactId>
+	<artifactId>carInventoryService</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<description>Demo project for Spring Boot Resource Server</description>

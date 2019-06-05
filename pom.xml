@@ -12,8 +12,8 @@
 	<packaging>pom</packaging>
 
 	<modules>
-		<module>oauth2server</module>
-		<module>petstore</module>
+		<module>oAuth2Server</module>
+		<module>carInventoryService</module>
 	</modules>
 
 	<url>https://codeaches.com/</url>
