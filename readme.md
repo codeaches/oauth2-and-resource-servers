@@ -1,5 +1,6 @@
 [![License MIT][MIT badge]][MIT]
 [![Travis Build][Travis badge]][Travis]
+[![CircleCI Build][CircleCI badge]][CircleCI]
 [![][Paypal Donate Img]][Paypal Donate Link]
 
 The **current** version of this project is licensed under [MIT].
@@ -18,3 +19,6 @@ The tutorial related to this project can be found on [Codeaches Website]
 
 [Travis badge]: https://img.shields.io/travis/codeaches/oauth2-and-resource-servers/master.svg?label=Travis%20Code%20Build&style=flat
 [Travis]: https://travis-ci.org/codeaches/oauth2-and-resource-servers/builds
+
+[CircleCI badge]: https://circleci.com/gh/codeaches/oauth2-and-resource-servers.svg?style=svg
+[CircleCI]: https://circleci.com/gh/codeaches/oauth2-and-resource-servers
