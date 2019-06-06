@@ -1,4 +1,4 @@
-package com.codeaches.car.inventory.service;
+package com.codeaches.carinventoryservice;
 
 import java.util.HashMap;
 import java.util.HashSet;
@@ -16,14 +16,14 @@ import org.springframework.web.bind.annotation.RestController;
 public class InventoryController {
 
 	@GetMapping("viewCars")
-	@PreAuthorize("hasAuthority('INVENTORY_ACCESS_VIEW')")
+	@PreAuthorize("hasAuthority('INVENTORY_VIEW')")
 	public Set<String> viewCars() {
 
 		return cars;
 	}
 
 	@PostMapping("addCars")
-	@PreAuthorize("hasAuthority('INVENTORY_ACCESS_ADD')")
+	@PreAuthorize("hasAuthority('INVENTORY_ADD')")
 	public String addCars(@RequestBody HashMap<String, String> payload) {
 
 		cars.addAll(payload.values());

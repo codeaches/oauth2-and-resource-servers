@@ -1,4 +1,4 @@
-package com.codeaches.car.inventory.service;
+package com.codeaches.carinventoryservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
