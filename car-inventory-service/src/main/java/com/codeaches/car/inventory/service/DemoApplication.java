@@ -1,4 +1,4 @@
-package com.codeaches.petstore;
+package com.codeaches.car.inventory.service;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
