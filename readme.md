@@ -3,6 +3,7 @@
 [![CircleCI Build][CircleCI badge]][CircleCI]
 [![Quality Gate Status][Quality Gate Status badge]][Quality Gate]
 [![][Paypal Donate Img]][Paypal Donate Link]
+[![CircleCI Build][CircleCI badge]{:target="_blank"}][CircleCI]{:target="_blank"}
 
 The **current** version of this project is licensed under [MIT].
 
