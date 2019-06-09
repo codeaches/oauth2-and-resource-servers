@@ -1,7 +1,7 @@
 {
 	"info": {
 		"_postman_id": "5fe34059-d457-48e2-b387-cc974ed8000d",
-		"name": "resource-server-sample-requests",
+		"name": "car-inventory-service-sample-requests",
 		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
 	},
 	"item": [
